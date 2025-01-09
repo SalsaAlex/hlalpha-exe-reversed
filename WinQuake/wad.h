@@ -35,6 +35,9 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 #define	TYP_QPIC		66
 #define	TYP_SOUND		67
 #define	TYP_MIPTEX		68
+#define TYP_SCRIPT		68	// contain script files
+#define TYP_COLORMAP2	69	// old stuff. build palette from LBM file (not used)
+#define TYP_QFONT		70	// half-life font (qfont_t)
 
 typedef struct
 {

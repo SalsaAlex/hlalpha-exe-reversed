@@ -1,0 +1,14 @@
+﻿  gas2masm.c
+d:\github\hlalpha-exe-reversed\winquake\gas2masm\gas2masm.c(116): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strcmpi. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(245) : see declaration of 'strcmpi'
+d:\github\hlalpha-exe-reversed\winquake\gas2masm\gas2masm.c(216): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\github\hlalpha-exe-reversed\winquake\gas2masm\gas2masm.c(247): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(248) : see declaration of 'strnicmp'
+d:\github\hlalpha-exe-reversed\winquake\gas2masm\gas2masm.c(249): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\github\hlalpha-exe-reversed\winquake\gas2masm\gas2masm.c(550): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strcmpi. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(245) : see declaration of 'strcmpi'
+d:\github\hlalpha-exe-reversed\winquake\gas2masm\gas2masm.c(928): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strcmpi. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(245) : see declaration of 'strcmpi'
+  gas2masm.vcxproj -> D:\GitHub\hlalpha-exe-reversed\WinQuake\gas2masm\.\Debug\gas2masm.exe
